@@ -1,5 +1,3 @@
-# Put comments here that give an overall description of what your
-## functions do
 ## These functions store the results of computationally expensive matrix inversion
 ##   within a caching function along with the matrix itself 
 ##  -- Assumes the matrix provided is square and invertible.
